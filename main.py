@@ -11,3 +11,4 @@ menu = {
     "3. PLaceholder Option 3", 
     "4. Exit the conversation"
 }
+print(menu)
