@@ -15,13 +15,14 @@ print("Please choose from the following: ")
 for f in menu:
     print(f)
 choice = int(input("Enter your number choice: "))
-if choice == "1":
+
+if choice == "1.":
     print("Choice not available")
-elif choice == "2":
+elif choice == "2.":
     print("Choice not available")
-elif choice == "3":
+elif choice == "3.":
     print("Choice not available")
-elif choice == "4":
+elif choice == "4.":
     print(f"Have a great day {name}")
 else:
     print("Please choose a number")
